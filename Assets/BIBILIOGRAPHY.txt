@@ -1,0 +1,28 @@
+Works Cited and Resources
+		
+
+[1]	BeepBoopIndie. “Unity Tutorial | Coin Pickups, Sound Effect and UI.” Youtube.com, 14 June 2020, 
+		https://www.youtube.com/watch?v=pa6yUuPZdrE&amp;t=637s. 
+		
+
+[2]	Blackthornprod. “2D PLATFORMER PATROL AI WITH UNITY AND C# - EASY TUTORIAL.” Youtube.com, 7 Feb. 2018, 
+		https://www.youtube.com/watch?v=aRxuKoJH9Y0&amp;t=24s. 
+
+[3]	Brackeys. “2D-Character-Controller/CharacterController2D.Cs at Master · Brackeys/2D-Character-Controller.” GitHub, 3 July 2018, 
+		https://github.com/Brackeys/2D-Character-Controller/blob/master/CharacterController2D.cs. 
+	
+	PlayerController movement script used
+
+[4]	Brackeys. “2D Movement in Unity (Tutorial).” Youtube.com, 15 July 2018, 
+		https://www.youtube.com/watch?v=dwcT-Dch0bA! 
+
+[5]	gamesplusjames. “Enemies &amp; Falling Off The Screen - Unity 2D Platformer Tutorial - Part 7.” Youtube.com, 20 Feb. 2015, 
+		https://www.youtube.com/watch?v=99HFfubBjYg&amp;t=120s. 
+
+[6]	Yewbic. “Https://Freesound.org/People/Yewbic/Sounds/33796/.” Freesound.org, 15 Mar. 2007, 
+		https://freesound.org/people/yewbic/sounds/33796/. 
+
+	Polaroid pick up sound effects
+
+[7]	101touchapps. “Importing Spritesheets into Unity - YouTube.” Youtube.com, 29 Apr. 2019, 
+		https://www.youtube.com/watch?v=txtNjkSqOyw. 

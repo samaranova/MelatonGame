@@ -1,0 +1,444 @@
+fileFormatVersion: 2
+guid: b4c3ee06a521fb44f8f895da682503df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3242931704964578248
+    second: floatingpolaroid_0
+  - first:
+      213: 7506856587172557011
+    second: floatingpolaroid_1
+  - first:
+      213: 5496127313735448957
+    second: floatingpolaroid_2
+  - first:
+      213: -397041038818431621
+    second: floatingpolaroid_3
+  - first:
+      213: -5556284013426046164
+    second: floatingpolaroid_4
+  - first:
+      213: 8834481537918272540
+    second: floatingpolaroid_5
+  - first:
+      213: 4701616845979407766
+    second: floatingpolaroid_6
+  - first:
+      213: 3660458846436118663
+    second: floatingpolaroid_7
+  - first:
+      213: -7372130583153121475
+    second: floatingpolaroid_8
+  - first:
+      213: -5625504643751826353
+    second: floatingpolaroid_9
+  - first:
+      213: 7920320838282936799
+    second: floatingpolaroid_10
+  - first:
+      213: -7107261648161645120
+    second: floatingpolaroid_11
+  - first:
+      213: 5681418019116397043
+    second: floatingpolaroid_12
+  - first:
+      213: 7600904149665463851
+    second: floatingpolaroid_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floatingpolaroid_0
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 14484
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbf3413435310d20800000000000000
+      internalID: 3242931704964578248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_1
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 14484
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b8320b46bd2860800000000000000
+      internalID: 7506856587172557011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_2
+      rect:
+        serializedVersion: 2
+        x: 7440
+        y: 14388
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d79f58f0caa264c40800000000000000
+      internalID: 5496127313735448957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_3
+      rect:
+        serializedVersion: 2
+        x: 10548
+        y: 14388
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da9ff574d6d7af0800000000000000
+      internalID: -397041038818431621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_4
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 10196
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0f84d02d14e2b0800000000000000
+      internalID: -5556284013426046164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_5
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 10196
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c148d52d6226a9a70800000000000000
+      internalID: 8834481537918272540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_6
+      rect:
+        serializedVersion: 2
+        x: 7476
+        y: 10132
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69558967c9f7f3140800000000000000
+      internalID: 4701616845979407766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_7
+      rect:
+        serializedVersion: 2
+        x: 10548
+        y: 10132
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780d2c84def8cc230800000000000000
+      internalID: 3660458846436118663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_8
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 6100
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d376d593b4ee0b990800000000000000
+      internalID: -7372130583153121475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_9
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 6100
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cacdae4513ee1b0800000000000000
+      internalID: -5625504643751826353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_10
+      rect:
+        serializedVersion: 2
+        x: 7476
+        y: 6228
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18af8b6d1aaed60800000000000000
+      internalID: 7920320838282936799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_11
+      rect:
+        serializedVersion: 2
+        x: 10548
+        y: 6228
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd5197df2fed5d90800000000000000
+      internalID: -7107261648161645120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_12
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2196
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1bfe1469378de40800000000000000
+      internalID: 5681418019116397043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floatingpolaroid_13
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 2196
+        width: 344
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3a948d06db7960800000000000000
+      internalID: 7600904149665463851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

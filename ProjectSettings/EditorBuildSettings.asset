@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: fab176ed1fa1b494d920089dd9294d4e
+  - enabled: 1
+    path: Assets/Scenes/girl scenes/GirlDifficultyScene.unity
+    guid: a2361ea113bc47b48b18326a027173ac
+  - enabled: 1
+    path: Assets/Scenes/girl scenes/GirlGameSceneEasy.unity
+    guid: 1824077ba5540b04e8177c9a7df68777
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 2aa0fe2acb94b1b4fa5e804ba22f7c6e
+  - enabled: 1
+    path: Assets/Scenes/boy scenes/BoyGameSceneEasy.unity
+    guid: 8d33b26506fc40e4dab802c58b1861c3
+  - enabled: 1
+    path: Assets/Scenes/boy scenes/BoyDifficultyScene.unity
+    guid: 43afc2352c7c3e54fbcbef6c349b92d3
+  - enabled: 1
+    path: Assets/Scenes/boy scenes/BoyGameSceneMed.unity
+    guid: a6ae96f1743e23040be11a924053d91a
+  - enabled: 1
+    path: Assets/Scenes/girl scenes/GirlGameSceneHard.unity
+    guid: a440eb0742d83414899f205f1fcfa8b8
+  - enabled: 1
+    path: Assets/Scenes/girl scenes/GirlGameSceneMed.unity
+    guid: d4908ff4c60489b40b4bded73c97686d
+  - enabled: 1
+    path: Assets/Scenes/boy scenes/BoyGameSceneHard.unity
+    guid: 9c87e909021f9b94289c8639aea5fe67
+  - enabled: 1
+    path: Assets/Scenes/Controls.unity
+    guid: 7be9a20e0bf6c334a87c4ec8667cf9bf
+  - enabled: 1
+    path: Assets/Scenes/ChooseCharacter.unity
+    guid: 7afa04a56fdb0eb48ba6116eb6cbc60f
+  m_configObjects: {}
